@@ -1,1 +1,9 @@
-body{ margin:0 auto}
+body{margin:0 20%}
+about{display: inline-block}
+span{display: block}
+h1{font-family: 'Roboto', sans-serif;
+color: blueviolet
+}
+h2{font-family: 'Oswald', sans-serif;
+    
+}
